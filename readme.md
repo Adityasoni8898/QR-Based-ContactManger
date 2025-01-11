@@ -4,7 +4,7 @@ Contact Manager is a SwiftUI-based app that helps users manage and categorize th
 
 https://youtube.com/shorts/ZZ9wnH5WOXQ
 
-![Demo](ContactManagerAppPreview.gif)
+https://github.com/user-attachments/assets/c99196ce-4f8a-4bea-a7c9-a9081fed83a5
 
 Features
 
