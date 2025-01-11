@@ -1,13 +1,10 @@
-HotProspects
+Contact/Prospects Manager
 
-HotProspects is a SwiftUI-based app that helps users manage and categorize their prospects effectively. With features like QR code generation, sorting, and filtering, it serves as a simple yet powerful contact management tool. Users can add, view, and organize potential contacts with ease.
+Contact Manager is a SwiftUI-based app that helps users manage and categorize their prospects effectively. With features like QR code generation, sorting, and filtering, it serves as a simple yet powerful contact management tool. Users can add, view, and organize potential contacts with ease.
 
 https://youtube.com/shorts/ZZ9wnH5WOXQ
 
-<h3>Video Demo</h3>
-<a href="https://youtube.com/shorts/ZZ9wnH5WOXQ" target="_blank">
-  <img src="https://youtube.com/shorts/ZZ9wnH5WOXQ/0.jpg" alt="Watch the video" width="600">
-</a>
+![Demo](ContactManagerAppPreview.gif)
 
 Features
 
